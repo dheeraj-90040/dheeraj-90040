@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pujyam Dheeraj</h1>
 <h3 align="center">I a Junior Frontend Developer From India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-90040&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-90040" /> </p>
+
 - 🌱 I’m currently learning **React , Node.js , Mongodb etc.**
 
 - 💬 Ask me about **web: Html , css , Js | code: C/C++ , Java**
