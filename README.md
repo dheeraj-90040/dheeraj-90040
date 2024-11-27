@@ -1,7 +1,3 @@
-Here's an updated version of your GitHub profile README, refined with the provided information and aligned with your interests as an **Aspiring SDE and Frontend Developer**:
-
----
-
 <h1 align="center">Hi 👋, I'm PUJYAM V S S N K DHEERAJ</h1>  
 <h3 align="center">Aspiring SDE and Frontend Developer from India</h3>  
 
@@ -58,7 +54,3 @@ Here's an updated version of your GitHub profile README, refined with the provid
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-90040&show_icons=true&locale=en&layout=compact" alt="dheeraj-90040" /></p>  
-
----
-
-This version incorporates your **ReadyServe** project and learning goals while maintaining a professional and appealing presentation. Let me know if you need further customization!
