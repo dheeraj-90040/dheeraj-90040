@@ -30,7 +30,7 @@
 
     </td>
     <td align="center">
-      <img src="https://cdn.dribbble.com/userupload/22521602/file/original-1bb053d9b4a4614142e9559ce94415e7.gif" alt="Coding GIF" width="350" />
+      <img src="https://cdn.dribbble.com/userupload/20309118/file/original-3757005be72d35d9cede36bb9a5042a6.gif" alt="Coding GIF" width="350" />
     </td>
   </tr>
 </table>
@@ -38,25 +38,26 @@
 ---
 
 <!-- Developer Profiles Section -->
-<h3 align="left">👨🏻‍💻 My Developer Profiles & Contributions</h3>
+<h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left" style="padding-top: 10px;">
   <a href="https://www.linkedin.com/in/dheeraj-pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="vertical-align:middle;" />
+    <img src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="30" width="40" style="vertical-align:middle;" />
   </a>
   <a href="https://codolio.com/profile/dheeraj_pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codolio.svg" height="30" width="40" style="vertical-align:middle;" />
+    <img src="https://codolio.com/codolio_assets/codolio.svg" height="30" width="40" style="vertical-align:middle;" />
   </a>
   <a href="https://www.codechef.com/users/pujyam_dheeraj" target="_blank" style="display:inline-block; margin-right: 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" style="vertical-align:middle;" />
+    <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="30" width="40" style="vertical-align:middle;" />
   </a>
   <a href="https://www.naukri.com/code360/profile/dheeraj_pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Naukri_Logo.svg/2560px-Naukri_Logo.svg.png" height="30" width="40" style="vertical-align:middle;" />
+    <img src="https://cdn.brandfetch.io/ideRRB4-kx/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="30" width="40" style="vertical-align:middle;" />
   </a>
   <a href="https://www.frontendmentor.io/profile/dheeraj-90040" target="_blank" style="display:inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/frontendmentor.svg" height="30" width="40" style="vertical-align:middle;" />
+    <img src="https://cdn.brandfetch.io/id-7PJzcYu/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="30" width="40" style="vertical-align:middle;" />
   </a>
 </p>
+
 
 <br/>  
 
