@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/38/06/93/3806936e1c0b535ff338121d6e5765df.gif" alt="Image description">
 <h1 align="center">Hi 👋, I'm PUJYAM V S S N K DHEERAJ</h1>
 <h3 align="center">Aspiring Software Development Engineer & Frontend Developer from India 🇮🇳</h3>
-<img src="https://cdn.dribbble.com/userupload/20309118/file/original-3757005be72d35d9cede36bb9a5042a6.gif" style="float: right; width: 400px;" alt="Image description">
+<img src="https://cdn.dribbble.com/userupload/20309118/file/original-3757005be72d35d9cede36bb9a5042a6.gif" style="align: right; width: 400px;" alt="Image description">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-90040&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-90040" /> </p>
 
 - 🔭 I’m currently working on **ReadyServe – A canteen pre-ordering system using React, JavaScript, and MySQL to simplify meal ordering and reduce queues.**
