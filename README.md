@@ -30,7 +30,7 @@
 
     </td>
     <td align="center">
-      <img src="https://i.pinimg.com/originals/38/bc/46/38bc4680ff8118238038195942744d91.gif" alt="Coding GIF" width="350" />
+      <img src="https://cdn.dribbble.com/userupload/21275361/file/original-a67e913c01e223688ed9ca46f2002896.gif" alt="Coding GIF" width="350" />
     </td>
   </tr>
 </table>
