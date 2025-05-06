@@ -30,29 +30,34 @@
 
     </td>
     <td align="center">
-      <img src="https://cdn.dribbble.com/userupload/20309118/file/original-3757005be72d35d9cede36bb9a5042a6.gif" alt="Coding GIF" width="350" />
+      <img src="https://cdn.dribbble.com/userupload/22521602/file/original-1bb053d9b4a4614142e9559ce94415e7.gif" alt="Coding GIF" width="350" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌐 Connect with Me
+<!-- Developer Profiles Section -->
+<h3 align="left">👨🏻‍💻 My Developer Profiles & Contributions</h3>
 
 <p align="left" style="padding-top: 10px;">
-  <a href="https://linkedin.com/in/dheeraj-pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/dheeraj-pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="vertical-align:middle;" />
+  </a>
+  <a href="https://codolio.com/profile/dheeraj_pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codolio.svg" height="30" width="40" style="vertical-align:middle;" />
   </a>
   <a href="https://www.codechef.com/users/pujyam_dheeraj" target="_blank" style="display:inline-block; margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" style="vertical-align:middle;" />
   </a>
-  <a href="https://www.leetcode.com/pujyamdheeraj" target="_blank" style="display:inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" style="vertical-align:middle;" />
+  <a href="https://www.naukri.com/code360/profile/dheeraj_pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Naukri_Logo.svg/2560px-Naukri_Logo.svg.png" height="30" width="40" style="vertical-align:middle;" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/pvssnkdheeraj" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" style="vertical-align:middle;" />
+  <a href="https://www.frontendmentor.io/profile/dheeraj-90040" target="_blank" style="display:inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/frontendmentor.svg" height="30" width="40" style="vertical-align:middle;" />
   </a>
 </p>
+
 <br/>  
 
 ---
