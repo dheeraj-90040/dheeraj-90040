@@ -29,8 +29,8 @@
 - ⚡ Fun fact: *I love transforming real-world problems into elegant and impactful code!*
 
     </td>
-    <td align="right">
-      <img src="https://cdn.dribbble.com/userupload/20734325/file/original-9d35dc142178130f0ef5a751835c2726.gif" alt="Coding GIF" width="350" />
+    <td align="center">
+      <img src="https://cdn.dribbble.com/userupload/22521602/file/original-1bb053d9b4a4614142e9559ce94415e7.gif" alt="Coding GIF" width="350" />
     </td>
   </tr>
 </table>
