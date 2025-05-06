@@ -40,22 +40,20 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/dheeraj-pujyam" target="_blank">
+  <a href="https://linkedin.com/in/dheeraj-pujyam" target="_blank" style="display:inline-block; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/pujyam_dheeraj" target="_blank">
+  <a href="https://www.codechef.com/users/pujyam_dheeraj" target="_blank" style="display:inline-block; margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/pujyamdheeraj" target="_blank">
+  <a href="https://www.leetcode.com/pujyamdheeraj" target="_blank" style="display:inline-block; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/pvssnkdheeraj" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/pvssnkdheeraj" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
   </a>
 </p>
+
 
 <br/>  
 
