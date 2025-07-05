@@ -18,14 +18,14 @@
       
 ### 🔥 About Me
 
-- 🚀 Aspiring Software Development Engineer with a strong foundation in Data Structures & Algorithms and Frontend Technologies.
+- 🚀 Aspiring Software Development Engineer and continuously following the path to become a **Full Stack MERN Developer!**
 - 🔭 Currently working on a **Virtual Queue project** for walk-in drives, aiming to make interviews smoother for both companies and candidates.
 - 🌱 Continuously learning and expanding my skills in **React** and **Supabase (BaaS)**.
 - 👯 Open to collaborate on **Advanced React + Supabase full-stack applications** and challenging **DSA problems**.
 - 🤝 Seeking help with **real-time order updates & payment integration in ReadyServe**.
 - 💬 Ask me about: **HTML, CSS, JavaScript, TailwindCSS, C/C++, Java, DSA, or responsive web design**.
 - 📫 Reach me at: **pujyamdheeraj@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1GktLM9Tu0cesemommRdJ__-RqESRps-C/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/15zdpdEY4gdh_y8ESaQVCTGjhWJHKpEqw/view?usp=sharing" target="_blank">View My Resume</a>
 - ⚡ Fun fact: *I love transforming real-world problems into elegant and impactful code!*
 
     </td>
@@ -45,19 +45,19 @@ Here are some of the projects I've built, showcasing my skills in web developmen
     * Built a responsive personal finance tracker using vanilla JavaScript to manage income, expenses, currency conversion, and peer-to-peer money transfers.
     * Developed features like loan eligibility checks, yearly financial reports, and client-side validation for enhanced user experience and data accuracy.
     * **Tech Stack:** HTML5, CSS3, JavaScript (Vanilla)
-    * [GitHub Link](https://github.com/dheeraj-90040/Bankist) (Assuming this is the correct link from your resume)
+    * <a href="https://github.com/dheeraj-90040/Bankist" target="_blank">GitHub Link</a>  [ Checkout My Project ] 
 
 -   **Algorithm Visualizer Tool**
     * Developed an interactive web-based algorithm visualizer using vanilla JavaScript to help students understand sorting and searching algorithms like Bubble Sort, Binary Search, Merge Sort, and Quick Sort through real-time animations.
     * Designed dynamic UI components with responsive layouts to display step-by-step algorithm execution, enhancing learning engagement and conceptual clarity.
     * **Tech Stack:** HTML5, CSS3, JavaScript, Data Structures & Algorithms
-    * [GitHub Link](https://github.com/dheeraj-90040/Algorithm-Visualizer) (Assuming this is the correct link from your resume)
+    * <a href="https://github.com/dheeraj-90040/Algorithm-Visualizer" target="_blank">GitHub Link</a>  [ Checkout My Project ] 
 
 -   **Cara E-Commerce Website**
     * Redesigned a responsive e-commerce website using HTML, CSS, and JavaScript to deliver a smooth shopping experience across mobile and desktop devices.
     * Implemented modern UI design with CSS Grid and Flexbox, focusing on minimalism, intuitive navigation, and high-quality product visuals.
     * **Tech Stack:** HTML5, CSS3, JavaScript
-    * [GitHub Link](https://github.com/dheeraj-90040/Cara-E-Commerce) (Assuming this is the correct link from your resume)
+    * <a href="https://github.com/dheeraj-90040/Cara-E-Commerce" target="_blank">GitHub Link</a> [ Checkout My Project ] 
 
 ---
 
